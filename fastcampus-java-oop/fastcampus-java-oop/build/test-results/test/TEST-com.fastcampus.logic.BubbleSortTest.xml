@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fastcampus.logic.BubbleSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-05T05:12:40" hostname="goyunseong-ui-MacBookPro.local" time="0.099">
+  <properties/>
+  <testcase name="버블소트 - 리스트를 넣으면 정렬된 결과를 보여준다" classname="com.fastcampus.logic.BubbleSortTest" time="0.099"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
